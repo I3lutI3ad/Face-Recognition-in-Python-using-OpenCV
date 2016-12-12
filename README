@@ -5,6 +5,9 @@ All the things that have been imported in first lines of the program.
 This recognize faces and greets them via computer speaker.
 and If not known face then will ask you to make 5 different facial expressions for accuracy and then asks you for your name which you have to speak. So, that the next time it can greet you.
 
+#Important
+Add/Create a folder "Names"(Same name or you have to change it in main file) in the same directory where you put this whole program.
+
 Author : Ripu Sudan
 Time Taken : 5 Days
 Licence : Available to all
