@@ -4,3 +4,7 @@ prerequisites:
 All the things that have been imported in first lines of the program.
 This recognize faces and greets them via computer speaker.
 and If not known face then will ask you to make 5 different facial expressions for accuracy and then asks you for your name which you have to speak. So, that the next time it can greet you.
+
+Author : Ripu Sudan
+Time Taken : 5 Days
+Licence : Available to all
