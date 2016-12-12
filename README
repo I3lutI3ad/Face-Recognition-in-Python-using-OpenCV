@@ -1,0 +1,6 @@
+# Face-Recognition-in-Python-using-OpenCV
+A Pyhton Program to detect and recognize faces directly from live video feed and also greet them.
+prerequisites:
+All the things that have been imported in first lines of the program.
+This recognize faces and greets them via computer speaker.
+and If not known face then will ask you to make 5 different facial expressions for accuracy and then asks you for your name which you have to speak. So, that the next time it can greet you.
