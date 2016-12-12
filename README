@@ -7,6 +7,7 @@ and If not known face then will ask you to make 5 different facial expressions f
 
 #Important
 Add/Create a folder "Names"(Same name or you have to change it in main file) in the same directory where you put this whole program.
+It will store the recorded names with respect to the faces in database (acting Name database).
 
 Author : Ripu Sudan
 Time Taken : 5 Days
